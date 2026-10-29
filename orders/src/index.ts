@@ -49,5 +49,5 @@ const startUp = async () => {
 };
 app.listen(3000, async () => {
     await startUp();
-    console.log('Orders listening on port 3000');
+    console.log('Orders listening on port 3000!');
 });
