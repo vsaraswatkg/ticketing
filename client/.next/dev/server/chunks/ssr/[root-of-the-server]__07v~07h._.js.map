@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":["file:///Users/vsaraswat/Desktop/ticketing/client/pages/index.js"],"sourcesContent":["import axios from \"axios\";\n\nconst LandingPage = ({curentUser}) => {\n    console.log(curentUser);\n    axios.get('https://ticketing.dev/api/users/currentuser');\n    return <h1>Index</h1>;\n\n}\n\n// LandingPage.getInitialProps = async () => {\n//     const response = await axios.get('https://ticketing.dev/api/users/currentuser');\n//     return response.data;\n// }\nexport default LandingPage;"],"names":["LandingPage","curentUser","console","log","get"],"mappings":";;;;;AAAA;;;;;;;AAEA,MAAMA,cAAc,CAAC,EAACC,UAAU,EAAC;IAC7BC,QAAQC,GAAG,CAACF;IACZ,iKAAK,CAACG,GAAG,CAAC;IACV,qBAAO,qKAAC;kBAAG;;;;;;AAEf;uCAMeJ"}}]
+}

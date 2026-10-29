@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/vsaraswat/Desktop/ticketing/client/pages/_app.js"],"sourcesContent":["import 'bootstrap/dist/css/bootstrap.css';\n\nexport default ({Component, pageProps}) => {\n    return <Component {...pageProps} />\n};"],"names":["Component","pageProps"],"mappings":";;;;;;;uCAEe,CAAC,EAACA,SAAS,EAAEC,SAAS,EAAC;IAClC,qBAAO,qKAACD;QAAW,GAAGC,SAAS;;;;;;AACnC"}}]
+}

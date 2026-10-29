@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/vsaraswat/Desktop/ticketing/client/pages/page1.js"],"sourcesContent":["export default () => {\n    return <h1>Page1</h1>;\n}"],"names":[],"mappings":";;;;;;uCAAe;IACX,qBAAO,qKAAC;kBAAG;;;;;;AACf"}}]
+}

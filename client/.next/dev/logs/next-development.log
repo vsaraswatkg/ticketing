@@ -1,0 +1,17 @@
+{"timestamp":"00:00:00.907","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:03.987","source":"Server","level":"LOG","message":"undefined"}
+{"timestamp":"00:00:04.033","source":"Server","level":"ERROR","message":"Error: self-signed certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"}
+{"timestamp":"00:00:04.036","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection:\" Error: self-signed certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"}
+{"timestamp":"00:00:04.038","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection: \" Error: self-signed certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"}
+{"timestamp":"00:00:04.147","source":"Browser","level":"LOG","message":"undefined"}
+{"timestamp":"00:00:04.152","source":"Browser","level":"ERROR","message":"unhandledRejection: AxiosError: Network Error"}
+{"timestamp":"00:00:04.156","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m⨯ unhandledRejection: AxiosError: Network Error\\u001b[39m\""}
+{"timestamp":"00:00:04.156","source":"Browser","level":"ERROR","message":"\u001b[31m⨯ unhandledRejection: AxiosError: Network Error\u001b[39m"}
+{"timestamp":"00:00:25.925","source":"Server","level":"LOG","message":"undefined"}
+{"timestamp":"00:00:25.960","source":"Server","level":"ERROR","message":"Error: self-signed certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"}
+{"timestamp":"00:00:25.963","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection:\" Error: self-signed certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"}
+{"timestamp":"00:00:25.965","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection: \" Error: self-signed certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"}
+{"timestamp":"00:00:26.023","source":"Browser","level":"LOG","message":"undefined"}
+{"timestamp":"00:00:26.023","source":"Browser","level":"ERROR","message":"unhandledRejection: AxiosError: Network Error"}
+{"timestamp":"00:00:26.023","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m⨯ unhandledRejection: AxiosError: Network Error\\u001b[39m\""}
+{"timestamp":"00:00:26.023","source":"Browser","level":"ERROR","message":"\u001b[31m⨯ unhandledRejection: AxiosError: Network Error\u001b[39m"}
