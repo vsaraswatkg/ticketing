@@ -1,6 +1,8 @@
 name: tests-expiration
 on:
   pull_request:
+    paths:
+      - "expiration/**"
 jobs:
   build:
     runs-on: ubuntu-latest
